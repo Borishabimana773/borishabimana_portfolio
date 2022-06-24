@@ -1,4 +1,4 @@
-#Week Two Challenge: My Portfolio.
+#Week Two Challenge: My Portfolio
 
 ##Description:
 
@@ -7,4 +7,3 @@ create a website that shows hiring manager potential employee's previous work. P
 ##Credits:
 
 Module Two course content Refrence challenge 2 while I was enrolled in the December 2021 cohort
-
